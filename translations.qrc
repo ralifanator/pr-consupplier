@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translation/kurs_de_GE.ts</file>
+        <file>translation/kurs_en_US.ts</file>
+        <file>translation/kurs_ru_RU.ts</file>
+    </qresource>
+</RCC>
